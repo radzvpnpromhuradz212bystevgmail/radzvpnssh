@@ -1,7 +1,6 @@
 {
 "ovpn_file":[
   {"id":0,"file":"client
-client
 dev tun
 persist-tun
 proto tcp
